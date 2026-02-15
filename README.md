@@ -4,8 +4,8 @@
 <img width="617" height="219" alt="Screenshot 2026-02-15 at 10 31 42 AM" src="https://github.com/user-attachments/assets/80dd86d9-53e4-4d16-9990-1f9e8712dc62" />
 
 
-<h1>Inspecting Network Protocols: Pre-Production Through Network Traffic Monitoring</h1>
-This tutorial follows the creation and deployment of Virtual Machines- observation of Network traffic within the public cloud computing platform Microsoft Azure.<br />
+<h1>Inspecting Network Protocols: Troubleshoot Firewall-Network Traffic Issues</h1>
+This tutorial follows the creation and deployment of Virtual Machines- observation of Network traffic within the public cloud computing platform Microsoft Azure. During a recreation of the Lab the following Network Issue prevented me from completing the task at hand. This is the process I folllowed to resolve the No Return/Reply Ping response error.<br />
 
 
 <h2>Environments and Technologies Used</h2>
