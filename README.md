@@ -13,6 +13,7 @@ This tutorial follows the creation and deployment of Virtual Machines- observati
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- ChatGPT
 
 <h2>Operating Systems Used </h2>
 
