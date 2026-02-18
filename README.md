@@ -5,7 +5,7 @@
 
 
 <h1>Inspecting Network Protocols: Troubleshoot Firewall-Network Traffic Issues</h1>
-This tutorial follows the creation and deployment of Virtual Machines- observation of Network traffic within the public cloud computing platform Microsoft Azure. During a recreation of the Lab the following Network Issue prevented me from completing the task at hand. This is the process I folllowed to resolve the No Return/Reply Ping response error.<br />
+This tutorial follows the creation and deployment of virtual machines, observing network traffic within the public cloud computing platform Microsoft Azure. During a recreation of a networking lab, the following Connectivity Issue prevented me from completing the task at hand. This is the process I followed to resolve the No Return/Reply Ping response error.<br />
 
 
 <h2>Environments and Technologies Used</h2>
